@@ -3,14 +3,15 @@
 </div>
 
 <div align="center">
+  <!-- Social Icons -->
   <a href="https://www.linkedin.com/in/mohamed-alawy/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://mostaql.com/u/mohamed_alawy" target="_blank">
-    <img src="https://img.shields.io/badge/Mostaql-00D4AA?style=for-the-badge&logo=freelancer&logoColor=white" target="_blank" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="https://www.kaggle.com/mohamedalawy" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank" />
+    <img src="https://skillicons.dev/icons?i=kaggle" height="40" />
+  </a>
+  <a href="https://mostaql.com/u/mohamed_alawy" target="_blank">
+    <img src="https://img.shields.io/badge/Mostaql-Hire_Me-00D4AA?style=flat-square&logo=freelancer&logoColor=white" height="40" />
   </a>
 </div>
 
@@ -19,6 +20,7 @@
 ## 👨‍💻 About Me
 
 ```python
+# Bio as Code 👨‍💻
 class AIEngineer:
     def __init__(self):
         self.name = "Mohamed Alawy"
@@ -43,36 +45,25 @@ class AIEngineer:
 
 ## 🏆 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>📜 Certificate Generator</h3>
-      <p>Advanced system for automatic PDF certificate generation</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      <br/><br/>
-      <a href="https://github.com/mohamed-alawy/certificate-generator">
-        <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>👁️ Yosr App</h3>
-      <p>AI Assistant for Visually Impaired Users</p>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white" />
-      <br/><br/>
-      <a href="https://apps.apple.com/us/app/%D9%8A%D8%B3%D8%B1/id6752940380">
-        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+### 📜 Certificate Generator
+> **Advanced system for automatic PDF certificate generation**
+>
+> 🛠️ **Tech:** `Python` `Flask` `Google Cloud`
+> 🔗 [View Project](https://github.com/mohamed-alawy/certificate-generator)
+
+### 👁️ Yosr App
+> **AI Assistant for Visually Impaired Users**
+>
+> 🛠️ **Tech:** `Flutter` `Gemini AI` `Computer Vision`
+> 🔗 [App Store](https://apps.apple.com/us/app/%D9%8A%D8%B3%D8%B1/id6752940380)
+
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-alawy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-alawy&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-alawy&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-alawy&theme=dark&hide_border=true&bg_color=00000000" />
 </div>
 
 ---
