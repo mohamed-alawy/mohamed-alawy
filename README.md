@@ -1,18 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=4DB6AC&center=true&vCenter=true&width=600&lines=AI+Engineer;Computer+Vision+Expert;NLP+Specialist;Building+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI+Engineer;Computer+Vision+Expert;NLP+Specialist;Building+Intelligent+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <!-- Social Icons -->
   <a href="https://www.linkedin.com/in/mohamed-alawy/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="https://www.kaggle.com/mohamedalawy" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kaggle" height="40" />
-  </a>
-  <!-- Mostaql Custom Badge to match style -->
-  <a href="https://mostaql.com/u/mohamed_alawy" target="_blank">
-    <img src="https://img.shields.io/badge/Mostaql-Hire_Me-00D4AA?style=for-the-badge&logo=freelancer&logoColor=white" height="40" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" height="50" />
   </a>
 </div>
 
@@ -20,40 +13,79 @@
 
 ## 👨‍💻 About Me
 
-> 🚀 **AI Engineer** passionate about turning data into intelligence.
->
-> 🎓 **Expertise:** Deep Learning, Computer Vision, NLP
->
-> ⭐ **Rating:** ⭐⭐⭐⭐⭐ on Mostaql
->
-> 🎯 **Focus:** Building scalable AI solutions
+<div align="center">
+  
+  > 🚀 **"Turning data into intelligence."**
+  
+  **AI Engineer** | **Deep Learning** | **Computer Vision** | **NLP**
+  
+  ⭐ **Top Rated Freelancer** (5/5) on Mostaql
+  
+</div>
 
 <br/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,flask,fastapi,gcp,docker,git,vscode,mysql,mongodb&perline=7" />
-  </a>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyTorch-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ScikitLearn-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/OpenCV-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg" height="40" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" height="40" />
 </div>
 
 <br/>
 
-## 🏆 Featured Projects
+## 🚀 Featured Projects
 
-| **Project** | **Description** | **Tech Stack** | **Link** |
-|:---:|:---|:---|:---:|
-| **📜 Certificate Generator** | Advanced system for automatic PDF certificate generation. High performance & scalable. | `Python` `Flask` `GCP` | [View Project](https://github.com/mohamed-alawy/certificate-generator) |
-| **👁️ Yosr App** | AI Assistant for Visually Impaired Users. Uses Gemini AI for scene understanding. | `Flutter` `Gemini AI` `CV` | [App Store](https://apps.apple.com/us/app/%D9%8A%D8%B3%D8%B1/id6752940380) |
+<div align="center">
+
+---
+
+**Certificate Generator**
+
+Automated system for generating professional PDF certificates at scale.  
+Handles batch processing with Google Sheets integration.
+
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" height="35" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" height="35" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Dark.svg" height="35" />
+
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/mohamed-alawy/certificate-generator)
+
+---
+
+**Yosr App**
+
+AI-powered mobile assistant helping visually impaired users navigate daily life.  
+Uses Gemini AI for real-time scene understanding and voice interaction.
+
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" height="35" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg" height="35" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/OpenCV-Dark.svg" height="35" />
+
+[![App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/%D9%8A%D8%B3%D8%B1/id6752940380)
+
+---
+
+</div>
 
 <br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-alawy&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-alawy&theme=radical&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-alawy&theme=tokyonight&hide_border=false&bg_color=0d1117" />
 </div>
 
 ---
