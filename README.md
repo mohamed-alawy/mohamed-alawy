@@ -10,8 +10,9 @@
   <a href="https://www.kaggle.com/mohamedalawy" target="_blank">
     <img src="https://skillicons.dev/icons?i=kaggle" height="40" />
   </a>
+  <!-- Mostaql Custom Badge to match style -->
   <a href="https://mostaql.com/u/mohamed_alawy" target="_blank">
-    <img src="https://img.shields.io/badge/Mostaql-Hire_Me-00D4AA?style=flat-square&logo=freelancer&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Mostaql-Hire_Me-00D4AA?style=for-the-badge&logo=freelancer&logoColor=white" height="40" />
   </a>
 </div>
 
@@ -19,19 +20,15 @@
 
 ## 👨‍💻 About Me
 
-```python
-# Bio as Code 👨‍💻
-class AIEngineer:
-    def __init__(self):
-        self.name = "Mohamed Alawy"
-        self.role = "AI Engineer"
-        self.stack = ["Deep Learning", "Computer Vision", "NLP"]
-        self.focus = "Building scalable AI solutions"
-        self.rating = "⭐⭐⭐⭐⭐ on Mostaql"
+> 🚀 **AI Engineer** passionate about turning data into intelligence.
+>
+> 🎓 **Expertise:** Deep Learning, Computer Vision, NLP
+>
+> ⭐ **Rating:** ⭐⭐⭐⭐⭐ on Mostaql
+>
+> 🎯 **Focus:** Building scalable AI solutions
 
-    def say_hi(self):
-        return "Ready to turn data into intelligence! 🚀"
-```
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -45,25 +42,18 @@ class AIEngineer:
 
 ## 🏆 Featured Projects
 
-### 📜 Certificate Generator
-> **Advanced system for automatic PDF certificate generation**
->
-> 🛠️ **Tech:** `Python` `Flask` `Google Cloud`
-> 🔗 [View Project](https://github.com/mohamed-alawy/certificate-generator)
-
-### 👁️ Yosr App
-> **AI Assistant for Visually Impaired Users**
->
-> 🛠️ **Tech:** `Flutter` `Gemini AI` `Computer Vision`
-> 🔗 [App Store](https://apps.apple.com/us/app/%D9%8A%D8%B3%D8%B1/id6752940380)
+| **Project** | **Description** | **Tech Stack** | **Link** |
+|:---:|:---|:---|:---:|
+| **📜 Certificate Generator** | Advanced system for automatic PDF certificate generation. High performance & scalable. | `Python` `Flask` `GCP` | [View Project](https://github.com/mohamed-alawy/certificate-generator) |
+| **👁️ Yosr App** | AI Assistant for Visually Impaired Users. Uses Gemini AI for scene understanding. | `Flutter` `Gemini AI` `CV` | [App Store](https://apps.apple.com/us/app/%D9%8A%D8%B3%D8%B1/id6752940380) |
 
 <br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-alawy&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-alawy&theme=dark&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-alawy&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-alawy&theme=radical&hide_border=true&bg_color=00000000" />
 </div>
 
 ---
